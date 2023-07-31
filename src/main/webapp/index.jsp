@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hello welcome to linux World!</title>
+<title>Hello welcome to linux!</title>
 </head>
 <body>
 	<h1>Hello welcome to linux  World!</h1>
